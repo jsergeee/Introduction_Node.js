@@ -12,3 +12,5 @@ var template = document.getElementById("message-template");
 var clone = document.importNode(template.content, true); // Клонируем содержимое шаблона
 clone.querySelector("h1").textContent = msg; // Устанавливаем текст
 document.body.appendChild(clone); // Добавляем клонированный элемент в body
+
+
