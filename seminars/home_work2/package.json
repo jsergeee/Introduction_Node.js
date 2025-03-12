@@ -1,0 +1,23 @@
+{
+  "name": "random-password-generator",
+  "version": "1.0.0",
+  "description": "A simple library for generating random passwords.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ваш_логин/ваш_репозиторий.git"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "random"
+  ],
+  "author": "Ваше Имя",
+  "license": "ISC",
+  "dependencies": {
+    "random-password-generator": "^0.0.3"
+  }
+}
